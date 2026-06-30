@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://githubpage.ithans.com/sitemap.xml
+Sitemap: https://hanslee-it.github.io/sitemap.xml

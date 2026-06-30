@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <title>Hyunsoo Lee Portfolio</title>
-  <subtitle>Backend / Server Developer portfolio</subtitle>
+  <subtitle>Bilingual backend developer portfolio</subtitle>
   <link href="https://githubpage.ithans.com/feed.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://githubpage.ithans.com/" rel="alternate" type="text/html"/>
+  <link href="https://githubpage.ithans.com/" rel="alternate" type="text/html" hreflang="ko"/>
+  <link href="https://githubpage.ithans.com/en/" rel="alternate" type="text/html" hreflang="en"/>
   <updated>2026-06-30T00:00:00+09:00</updated>
   <id>https://githubpage.ithans.com/feed.xml</id>
 </feed>
